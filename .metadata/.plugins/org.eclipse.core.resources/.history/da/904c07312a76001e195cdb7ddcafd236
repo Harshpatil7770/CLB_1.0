@@ -1,0 +1,13 @@
+package com.clb;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ClbManagementGatewayApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ClbManagementGatewayApplication.class, args);
+	}
+
+}

@@ -1,0 +1,8 @@
+spring.application.name=CLBManagement-gateway
+
+server.port=8888
+
+spring.profiles.active=dev
+
+logging.file.path=C:/App/clblogs/CLBManagemetGateway/
+logging.file.name=C:/App/clblogs/CLBManagemetGateway/CLBManagemetGateway.logs

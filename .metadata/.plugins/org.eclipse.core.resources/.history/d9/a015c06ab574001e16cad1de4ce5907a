@@ -1,0 +1,3 @@
+spring.application.name=CLBManagement-gateway
+
+server.port=8888

@@ -1,0 +1,8 @@
+spring.application.name=eureka-service
+
+spring.profiles.active=dev
+
+server.port=8761
+
+logging.file.path=C:/App/clblogs/eureka-service/
+logging.file.name=C:/App/clblogs/eureka-service/eurekaservice.logs

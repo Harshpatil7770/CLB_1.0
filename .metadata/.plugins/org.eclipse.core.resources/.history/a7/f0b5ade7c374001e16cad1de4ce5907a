@@ -1,0 +1,5 @@
+spring.application.name=management-service
+
+server.port=7070
+
+logging.file.path=C:/App/clblogs/management-service/
